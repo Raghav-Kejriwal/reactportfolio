@@ -65,7 +65,7 @@ export default function About() {
     </p>
   </div>
   <div>
-    <img src={timeline} className="time" />
+    <img src={timeline} className="time" alt="raghav" />
   </div>
   <div>
     <h2 className="wel">
@@ -137,7 +137,7 @@ export default function About() {
   <h2 className="wel">Connect with me on linkedin</h2>
   <div className="linkedin">
     <a href="https://www.linkedin.com/in/raghav-kejriwal-5ab38624b/">
-      <img src={lkd} />
+      <img src={lkd} alt="raghav"/>
     </a>
   </div>
 </div>
