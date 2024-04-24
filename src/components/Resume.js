@@ -16,7 +16,7 @@ export default function Resume(){
   <h2 className="wel">Download My Resume here</h2>
   <div className="download">
     <a href="resources/RAGHAV-RESUME.pdf" download="raghav-resume">
-      <img src={resumes} className="re" />
+      <img src={resumes} className="re" alt="raghav"/>
     </a>
   </div>
 </div>
