@@ -1,0 +1,26 @@
+html{
+    background-color: honeydew;
+}
+.wel{
+    text-align: center;
+    font-family: Copperplate, "Copperplate Gothic Light", fantasy;
+}
+.pdf{
+    width: 80%;
+    height: 700px;
+}
+.frame{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+.download{
+    padding-left: 48%;
+}
+.re{
+    height: 64px;
+    width: 64px;
+}

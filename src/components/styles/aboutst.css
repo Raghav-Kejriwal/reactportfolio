@@ -1,0 +1,53 @@
+html{
+    background-color: rgb(255, 165, 130);
+}
+.wel{
+    text-align: center;
+    font-family: Copperplate, "Copperplate Gothic Light", fantasy;
+}
+.right{
+    float: right;
+    height: 700px;
+    border-radius: 10%;
+}
+.main{
+    font-family: Candara;
+    font-size: large;
+}
+.time{
+    padding-left: 10%;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    width: 80%;
+}
+.ileft{
+    float: left;
+}
+.iright{
+    float: right;
+}
+.cert{
+    height: 300px;
+}
+.parent{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.first{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.second{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.space{
+    padding-top: 50px;
+}
+.linkedin{
+    width: 10%;
+    padding-left: 50%;
+}

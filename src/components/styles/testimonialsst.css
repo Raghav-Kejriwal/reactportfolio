@@ -1,0 +1,23 @@
+.wel{
+    text-align: center;
+    font-family: Copperplate, "Copperplate Gothic Light", fantasy;
+}
+.lwel{
+    font-family: Copperplate, "Copperplate Gothic Light", fantasy;
+}
+.pdf{
+    width: 90%;
+    height: 700px;
+}
+.frame{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+.text{
+    color: aliceblue;
+    font-size: larger;
+}

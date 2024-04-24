@@ -1,0 +1,33 @@
+html{
+    background-color: aliceblue;
+}
+.wel{
+    text-align: center;
+    font-family: Copperplate, "Copperplate Gothic Light", fantasy;
+}
+.photo{
+    height: 250px;
+    width: 250px;
+    border-radius: 50%;
+    float: right;
+}
+.main{
+    font-family: Candara;
+    font-size: large;
+}
+.maine{
+    text-align: center;
+    font-family: Candara;
+    font-size: xx-large;
+    color: darkgreen;
+}
+ol{
+    list-style-type: lower-greek;
+    font-size: larger;
+}
+a:visited{
+    color: blue
+}
+a:hover{
+    color: darkgreen;
+}
