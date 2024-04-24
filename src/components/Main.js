@@ -9,7 +9,7 @@ export default function Main(){
   <title>Home Page</title>
   <h1 className="wel">Welcome!</h1>
   <div>
-    <img className="photo" src={raghavphoto} />
+    <img className="photo" src={raghavphoto} alt="raghav"/>
     <p className="main">
       🌟 Welcome to Raghav's Corner of the Web! 🌟
       <br />
