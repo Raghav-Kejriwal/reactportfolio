@@ -53,14 +53,14 @@ export default function Portfolio(){
     </ul>
   </div>
   <div className="phro1">
-    <img className="row1" src={irctc1} />
-    <img className="row1" src={irctc2} />
-    <img className="row1" src={irctc3} />
+    <img className="row1" src={irctc1} alt="raghav" />
+    <img className="row1" src={irctc2} alt="raghav"/>
+    <img className="row1" src={irctc3} alt="raghav"/>
   </div>
   <div className="phro2">
-    <img className="row2" src={irctc4} />
-    <img className="row2" src={irctc5} />
-    <img className="row2" src={irctc6} />
+    <img className="row2" src={irctc4} alt="raghav"/>
+    <img className="row2" src={irctc5} alt="raghav"/>
+    <img className="row2" src={irctc6} alt="raghav"/>
   </div>
 </div>
 
